@@ -1,4 +1,23 @@
-# PyForge
+<p align="center">
+  <img src="pyforge.png" width="180" alt="PyForge logo">
+</p>
+
+<h1 align="center">PyForge</h1>
+
+<p align="center">
+  A friendly Windows application for converting Python scripts into
+  portable executable files.
+</p>
+
+<p align="center">
+  <a href="../../releases/latest">
+    <strong>Download the latest version</strong>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Licence:</strong> GNU GPL v3.0
+</p>
 
 A Windows app that forges a `.py` file into a `.exe`. Drop the file in, press
 **Forge**. Every option is explained in plain English right next to it.
