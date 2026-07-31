@@ -133,6 +133,13 @@ Full PyInstaller output, with **Save**, **Copy** and **Clear**. When a build
 fails, the reason is in here.
 
 ---
+## Screenshot
+
+<p align="center">
+  <img src="assets/docs/pyforge-interface.png"
+       width="850"
+       alt="PyForge application interface">
+</p>
 
 ## One requirement worth knowing
 
