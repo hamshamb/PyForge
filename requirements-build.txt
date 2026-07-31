@@ -1,0 +1,4 @@
+Used=>
+pyinstaller==6.21.0
+pillow==12.3.0
+tkinterdnd2==0.6.2
