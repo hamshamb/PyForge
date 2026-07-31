@@ -157,3 +157,19 @@ Environment page handles this for you.
 - Antivirus sometimes flags fresh PyInstaller exes. It's a known false positive
   caused by the bootloader, not the app.
 - The produced `.exe` is Windows-only, and 64-bit if your Python is.
+
+## License
+
+PyForge is licensed under the
+**GNU General Public License version 3 only — GPL-3.0-only**.
+
+You may use, study, modify, fork, redistribute, and commercially use PyForge.
+
+When distributing PyForge or a modified version, you must comply with the
+GNU GPL v3, preserve the applicable copyright and licence notices, and make
+the corresponding source code available to recipients.
+
+Private modifications that are not distributed do not have to be published.
+
+Original creator: **hamshamb**  
+Copyright © 2026 hamshamb.
