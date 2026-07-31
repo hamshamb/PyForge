@@ -1,3 +1,10 @@
+# SPDX-License-Identifier: GPL-3.0-only
+#
+# PyForge
+# Copyright (C) 2026 hamshamb
+#
+# Licensed under the GNU General Public License version 3 only.
+# See the LICENSE file for the complete license terms.
 """
 PyForge
 A friendly GUI front-end for PyInstaller.
